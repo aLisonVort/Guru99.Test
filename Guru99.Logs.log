@@ -1,0 +1,103 @@
+13-Apr-2020-16:42:26,289 [INFO] [BeforeTets] - Test
+13-Apr-2020-16:42:29,515 [INFO] [AfterTest] - Passed
+13-Apr-2020-16:42:29,516 [INFO] [AfterTest] - Test
+13-Apr-2020-16:42:29,517 [INFO] [AfterTest] - System.IO.TextWriter+SyncTextWriter
+13-Apr-2020-16:42:29,517 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-16:42:29,523 [INFO] [BeforeTets] - Test
+13-Apr-2020-16:42:33,146 [INFO] [AfterTest] - Passed
+13-Apr-2020-16:42:33,146 [INFO] [AfterTest] - Test
+13-Apr-2020-16:42:33,146 [INFO] [AfterTest] - System.IO.TextWriter+SyncTextWriter
+13-Apr-2020-16:42:33,147 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-16:43:22,730 [INFO] [BeforeTets] - Test
+13-Apr-2020-16:43:24,841 [INFO] [AfterTest] - Passed
+13-Apr-2020-16:43:24,842 [INFO] [AfterTest] - Test
+13-Apr-2020-16:43:24,843 [INFO] [AfterTest] - System.IO.TextWriter+SyncTextWriter
+13-Apr-2020-16:43:24,844 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-16:43:24,855 [INFO] [BeforeTets] - Test
+13-Apr-2020-16:43:28,482 [INFO] [AfterTest] - Passed
+13-Apr-2020-16:43:28,482 [INFO] [AfterTest] - Test
+13-Apr-2020-16:43:28,483 [INFO] [AfterTest] - System.IO.TextWriter+SyncTextWriter
+13-Apr-2020-16:43:28,483 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-16:45:18,416 [INFO] [BeforeTets] - Test
+13-Apr-2020-16:45:21,510 [INFO] [AfterTest] - Passed
+13-Apr-2020-16:45:21,511 [INFO] [AfterTest] - Test
+13-Apr-2020-16:45:21,511 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-16:45:21,518 [INFO] [BeforeTets] - Test
+13-Apr-2020-16:45:25,052 [INFO] [AfterTest] - Passed
+13-Apr-2020-16:45:25,052 [INFO] [AfterTest] - Test
+13-Apr-2020-16:45:25,053 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-17:04:10,783 [INFO] [BeforeTets] - Test Set Up is done
+13-Apr-2020-17:04:13,271 [INFO] [AfterTest] - Failed
+13-Apr-2020-17:04:13,281 [INFO] [AfterTest] - Test
+13-Apr-2020-17:04:13,281 [INFO] [AfterTest] -  Tear down is done
+13-Apr-2020-17:04:13,289 [INFO] [BeforeTets] - Test Set Up is done
+13-Apr-2020-17:04:14,141 [INFO] [AfterTest] - Failed
+13-Apr-2020-17:04:14,142 [INFO] [AfterTest] - Test
+13-Apr-2020-17:04:14,143 [INFO] [AfterTest] -  Tear down is done
+13-Apr-2020-17:05:20,764 [INFO] [BeforeTets] - Test Set Up is done
+13-Apr-2020-17:05:22,641 [INFO] [AfterTest] - Failed
+13-Apr-2020-17:05:22,643 [INFO] [AfterTest] - Test
+13-Apr-2020-17:05:22,649 [INFO] [AfterTest] -  Tear down is done
+13-Apr-2020-17:07:45,273 [INFO] [BeforeTets] - Test Set Up is done
+13-Apr-2020-17:07:48,457 [INFO] [LogInfo] - The http://demo.guru99.com/test/upload/ is opened
+13-Apr-2020-17:07:48,554 [INFO] [LogInfo] - File is attached
+13-Apr-2020-17:07:48,740 [INFO] [AfterTest] - Passed
+13-Apr-2020-17:07:48,742 [INFO] [AfterTest] - Test
+13-Apr-2020-17:07:48,743 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-17:07:48,743 [INFO] [AfterTest] -  Tear down is done
+13-Apr-2020-17:07:48,748 [INFO] [BeforeTets] - Test Set Up is done
+13-Apr-2020-17:07:49,342 [INFO] [AfterTest] - Failed
+13-Apr-2020-17:07:49,342 [INFO] [AfterTest] - Test
+13-Apr-2020-17:07:49,342 [INFO] [AfterTest] -  Tear down is done
+13-Apr-2020-17:11:53,660 [INFO] [BeforeTets] - Test Set Up is done
+13-Apr-2020-17:11:56,385 [INFO] [LogInfo] - The http://demo.guru99.com/test/upload/ is opened
+13-Apr-2020-17:11:56,493 [INFO] [LogInfo] - File is attached
+13-Apr-2020-17:11:56,616 [INFO] [AfterTest] - Passed
+13-Apr-2020-17:11:56,619 [INFO] [AfterTest] - Test
+13-Apr-2020-17:11:56,619 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-17:11:56,619 [INFO] [AfterTest] -  Tear down is done
+13-Apr-2020-17:11:56,625 [INFO] [BeforeTets] - Test Set Up is done
+13-Apr-2020-17:11:57,044 [INFO] [LogInfo] - The http://demo.guru99.com/test/radio.html is opened
+13-Apr-2020-17:12:00,129 [INFO] [AfterTest] - Passed
+13-Apr-2020-17:12:00,130 [INFO] [AfterTest] - Test
+13-Apr-2020-17:12:00,130 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-17:12:00,130 [INFO] [AfterTest] -  Tear down is done
+13-Apr-2020-17:13:34,813 [INFO] [BeforeTets] - Test Set Up is done
+13-Apr-2020-17:13:36,575 [INFO] [LogInfo] - The http://demo.guru99.com/test/upload/ is opened
+13-Apr-2020-17:13:36,684 [INFO] [LogInfo] - File is attached
+13-Apr-2020-17:13:36,849 [INFO] [AfterTest] - Passed
+13-Apr-2020-17:13:36,853 [INFO] [AfterTest] - Test
+13-Apr-2020-17:13:36,853 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-17:13:36,854 [INFO] [AfterTest] -  Tear down is done
+13-Apr-2020-17:13:36,906 [INFO] [BeforeTets] - Test Set Up is done
+13-Apr-2020-17:13:37,607 [INFO] [LogInfo] - The http://demo.guru99.com/test/radio.html is opened
+13-Apr-2020-17:13:40,691 [INFO] [AfterTest] - Passed
+13-Apr-2020-17:13:40,691 [INFO] [AfterTest] - Test
+13-Apr-2020-17:13:40,692 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-17:13:40,692 [INFO] [AfterTest] -  Tear down is done
+13-Apr-2020-17:25:28,816 [INFO] [BeforeTets] - Test Set Up is done
+13-Apr-2020-17:25:31,035 [INFO] [LogInfo] - The http://demo.guru99.com/test/upload/ is opened
+13-Apr-2020-17:25:31,170 [INFO] [LogInfo] - File is attached
+13-Apr-2020-17:25:31,347 [INFO] [AfterTest] - Passed
+13-Apr-2020-17:25:31,351 [INFO] [AfterTest] - Test
+13-Apr-2020-17:25:31,351 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-17:25:31,351 [INFO] [AfterTest] -  Tear down is done
+13-Apr-2020-17:25:31,357 [INFO] [BeforeTets] - Test Set Up is done
+13-Apr-2020-17:25:31,963 [INFO] [LogInfo] - The http://demo.guru99.com/test/radio.html is opened
+13-Apr-2020-17:25:35,046 [INFO] [AfterTest] - Passed
+13-Apr-2020-17:25:35,046 [INFO] [AfterTest] - Test
+13-Apr-2020-17:25:35,046 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-17:25:35,047 [INFO] [AfterTest] -  Tear down is done
+13-Apr-2020-17:31:06,671 [INFO] [BeforeTets] - Test Set Up is done
+13-Apr-2020-17:31:08,722 [INFO] [LogInfo] - The http://demo.guru99.com/test/upload/ is opened
+13-Apr-2020-17:31:08,821 [INFO] [LogInfo] - File is attached
+13-Apr-2020-17:31:08,935 [INFO] [AfterTest] - Passed
+13-Apr-2020-17:31:08,938 [INFO] [AfterTest] - Test
+13-Apr-2020-17:31:08,938 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-17:31:08,939 [INFO] [AfterTest] -  Tear down is done
+13-Apr-2020-17:31:08,945 [INFO] [BeforeTets] - Test Set Up is done
+13-Apr-2020-17:31:09,437 [INFO] [LogInfo] - The http://demo.guru99.com/test/radio.html is opened
+13-Apr-2020-17:31:12,523 [INFO] [AfterTest] - Passed
+13-Apr-2020-17:31:12,523 [INFO] [AfterTest] - Test
+13-Apr-2020-17:31:12,523 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-17:31:12,524 [INFO] [AfterTest] -  Tear down is done
